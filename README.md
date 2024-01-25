@@ -32,10 +32,10 @@
 
 
 <p align="center">
-  <img src="https://te.legra.ph/file/7b51adb8645bb87510996.jpg">
+  <img src="[https://te.legra.ph/file/7b51adb8645bb87510996.jpg](https://telegra.ph/file/935af4bff3bfbd724bb74.jpg)">
 </p>
 
-**𝙏𝙀𝙎𝙏 𝘽𝙊𝙏 ➣ [𝄟ॐ❥𝗧𝗚🍷𝗩𝗖🌷𝗕𝗢𝗧❥𝄟⃟🥀](https://t.me/TG_VC_BOT)**
+**𝙏𝙀𝙎𝙏 𝘽𝙊𝙏 ➣ [ᴄυтє • ѕαиαтαиι](https://t.me/SANATANI_MUSIC_BOT)**
 
 
 
