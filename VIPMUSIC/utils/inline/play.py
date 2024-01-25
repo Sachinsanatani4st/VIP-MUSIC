@@ -31,8 +31,8 @@ def track_markup(_, videoid, user_id, channel, fplay):
         ],
         [
             InlineKeyboardButton(
-                text=f"⛦ ᴊᴏɪɴ ⛦",
-              url="https://t.me/vip_creators",
+                text=f"ᴊᴏɪɴ",
+              url="https://t.me/SANATANI_IS_HERE",
             ),
         ],
     ]
@@ -87,13 +87,13 @@ def stream_markup_timer(_, chat_id, played, dur):
             ),
         ],
         [
-            InlineKeyboardButton(text="ʀᴇsᴜᴍᴇ", callback_data=f"ADMIN Resume|{chat_id}"),
-            InlineKeyboardButton(text="ʀᴇᴘʟᴀʏ", callback_data=f"ADMIN Replay|{chat_id}"),
+            InlineKeyboardButton(text="ʀєѕυмє", callback_data=f"ADMIN Resume|{chat_id}"),
+            InlineKeyboardButton(text="ʀєσкαу", callback_data=f"ADMIN Replay|{chat_id}"),
         ],
         [
             InlineKeyboardButton(
-                text=f"⛦ ᴊᴏɪɴ ⛦",
-              url="https://t.me/vip_creators",
+                text=f"ᴊᴏɪɴ",
+              url="https://t.me/SANATANI_IS_HERE",
             ),
         ],
     ]
@@ -123,13 +123,13 @@ def stream_markup(_, chat_id):
             ),
         ],
         [
-            InlineKeyboardButton(text="ʀᴇsᴜᴍᴇ", callback_data=f"ADMIN Resume|{chat_id}"),
-            InlineKeyboardButton(text="ʀᴇᴘʟᴀʏ", callback_data=f"ADMIN Replay|{chat_id}"),
+            InlineKeyboardButton(text="ʀєѕυмє", callback_data=f"ADMIN Resume|{chat_id}"),
+            InlineKeyboardButton(text="ʀєρℓαу", callback_data=f"ADMIN Replay|{chat_id}"),
         ],
         [
             InlineKeyboardButton(
-                text=f"⛦ ᴊᴏɪɴ ⛦",
-              url="https://t.me/vip_creators",
+                text=f"ᴊᴏɪɴ",
+              url="https://t.me/SANATANI_IS_HERE",
             ),
         ],
     ]
@@ -252,13 +252,13 @@ def queue_markup(_, videoid, chat_id):
             ),
         ],
         [
-            InlineKeyboardButton(text="ʀᴇsᴜᴍᴇ", callback_data=f"ADMIN Resume|{chat_id}"),
-            InlineKeyboardButton(text="ʀᴇᴘʟᴀʏ", callback_data=f"ADMIN Replay|{chat_id}"),
+            InlineKeyboardButton(text="ʀєѕυмє", callback_data=f"ADMIN Resume|{chat_id}"),
+            InlineKeyboardButton(text="ʀєρℓαу", callback_data=f"ADMIN Replay|{chat_id}"),
         ],
         [
             InlineKeyboardButton(
-                text=f"⛦ ᴊᴏɪɴ ⛦",
-              url="https://t.me/vip_creators",
+                text=f"ᴊᴏɪɴ",
+              url="https://t.me/SANATANI_IS_HERE",
             ),
         ],
     ]
